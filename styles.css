@@ -1,11 +1,12 @@
-<head>
-  <style>
-    h1 { color: #66BFBF; }
-        h3 { color: #66BFBF; }
-  </style>
-</head>
 body {
-  background-color: #E5E3C6;
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
 }
 Hr {
 Border-style: none;
